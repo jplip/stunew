@@ -3,13 +3,45 @@ layout: default
 title: Student Blog
 ---
 
+## Justin Liporada's Blog
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+My [Github account](https://github.com/jplip)
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+
+<html>
+<body>
+
+<h2>Freform Drawing</h2>
+
+<p>My Freform drawing of my family, ethnicity, where I was born and live, and a controller to show my love for videogames.</p>
+
+<img src="IMG_8142.jpg" alt="FreForm" style="length:700px;height:300px;">
+
+</body>
+</html>
+
+
+<html>
+<body>
+
+
+
+
+<h2>My Family</h2>
+
+<p>My Father Paul, my Mother Dhorene, my Sister Jaelyne, and me Justin.</p>
+
+
+<img src="IMG_4413.jpeg" alt="My Family" style="length:1000px;height:400px;">
+
+</body>
+</html>
+
+
+
+
+
+
+
+<a href="https://media.tenor.com/B6Qj9Q3t9U8AAAAC/random.gif"><img
