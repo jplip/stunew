@@ -7,6 +7,8 @@ description:
 type: tangibles
 courses: { compsci: {week: 12} }
 ---
+# What I Worked On
+- I was the backend developer and worked on imputing data originally but then we eventually switched to an online api with data already on it. After that I worked on just setting up the data so that it worked with the api and url. After completing that I added some functions to the api like search and a get random and then deployed it onto the AWS.
 
 # Me Showcasing
 ![Me Showcasing 1](https://raw.githubusercontent.com/jplip/stunew/main/images/85C78A13-FD7A-418D-9E38-E236C5495B08.jpeg)
@@ -18,4 +20,4 @@ courses: { compsci: {week: 12} }
 
 # Review of Other Teams
 -   CSSE Period 3 Table 1 7:30pm Lopez's Room
-    -   I really liked their project and what they did. They made a game that had a sandbox build like the old pokemon games.
+    -   I really liked their project and what they did. They made a game that had a sandbox build like the old pokemon games. It was really cool to see what they were doing and I want to make something like that. It was really smooth and ran well on their computer. I definetly would like to see how far that game can go if there was even more time as they didn't fully finish their combat function as there was the same animation for each attack. With more time, they could make something way more cooler.
